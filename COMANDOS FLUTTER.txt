@@ -1,0 +1,6 @@
+Ctrl + P: Criar um novo projeto 
+
+stl = StateLess Widgt 
+stf = stateFull Widgt
+
+alt + shift + F = formatar codigo

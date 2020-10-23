@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567912286947",
+    "firebase_url": "https://aula-loja-virtual.firebaseio.com",
+    "project_id": "aula-loja-virtual",
+    "storage_bucket": "aula-loja-virtual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567912286947:android:414ff368cf7e30ec3dd3d6",
+        "android_client_info": {
+          "package_name": "br.com.wtti.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567912286947-bo1c2eoo9peqojo30fptoveovrs69pls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvLvjUIpX0fEf7PZSamcu9fPB-BT5Dbco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567912286947-bo1c2eoo9peqojo30fptoveovrs69pls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
